@@ -1,0 +1,138 @@
+body 
+{
+	background-color: black;
+	font-family: "Bradley Hand ITC";
+	color: White;
+}
+
+
+
+.header
+{
+	border-bottom-style: groove;
+}
+
+.name
+{
+    font-size: 36pt;
+}
+
+.title 
+{
+	font-size: 14pt;
+	margin-top: -10px;
+}
+
+.title a
+{
+	color: white;
+}
+
+.title a:hover
+{
+	color: white;
+	background-color: purple;
+}
+
+
+
+.gap
+{
+    clear: both;
+    height: 30px;
+}
+
+
+.nav
+{
+	float: left;
+}
+
+.nav a
+{
+	font-size: 18pt;
+	color: white;
+}
+
+.nav a:hover
+{
+	color: white;
+	background-color: Purple;
+	font-size: 22pt;
+}
+
+.navRow
+{
+	height: 42px;
+	width: 150px;
+}
+
+.content
+{
+    margin-left: 170px;
+    text-align: center;
+}
+
+.bio
+{
+    margin-left: -170px;
+    text-align: center;
+}
+.bio a
+{
+	color: white;
+}
+.bio a:hover
+{
+	color: white;
+	background-color: Purple;
+}
+
+.contact a
+{
+	color: white;
+}
+.contact a:hover
+{
+	color: white;
+	background-color: Purple;
+}
+
+.contact
+{
+    margin-left: 170px;
+    text-align: center;
+}
+
+.scrollContent
+{
+    scrollbar-arrow-color: white;
+    scrollbar-base-color: black;
+    scrollbar-dark-shadow-color: black;
+    scrollbar-track-color: black;
+    scrollbar-face-color: black;
+    scrollbar-shadow-color: silver;
+    scrollbar-highlight-color: silver;
+    scrollbar-3d-light-color: silver;
+}
+
+#footer
+{
+	margin-top: 250px;
+	color: gray;
+	font-size: 10pt;
+}
+
+#footer a
+{
+	color: white;
+	font-size:12pt;
+}
+
+#footer a:hover
+{
+	color: white;
+	background-color: Black;
+	font-size: 12pt;
+
+}
